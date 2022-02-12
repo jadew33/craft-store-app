@@ -3,7 +3,7 @@
         "id": 1,
         "name": "Kokomi",
         "category": "keychain",
-        "price": "$6",
+        "price": 6,
         "imageUrl": "/Keychain/Kokomi.jpg",
         "quantity": 9,
         "display": true
@@ -12,7 +12,7 @@
         "id": 2,
         "name": "Irelia",
         "category": "keychain",
-        "price": "$6",
+        "price": 6,
         "imageUrl": "/Keychain/Irelia.jpg",
         "quantity": 7
     },
@@ -20,7 +20,7 @@
         "id": 3,
         "name": "Hoshiguma",
         "category": "keychain",
-        "price": "$5",
+        "price": 5,
         "imageUrl": "/Keychain/Hoshiguma.jpg",
         "quantity": 3
     },
@@ -28,7 +28,7 @@
         "id": 4,
         "name": "Akame",
         "category": "keychain",
-        "price": "$5",
+        "price": 5,
         "imageUrl": "/Keychain/Akame.jpg",
         "quantity": 5
     },
@@ -36,7 +36,7 @@
         "id": 5,
         "name": "Kurisu",
         "category": "keychain",
-        "price": "$6",
+        "price": 6,
         "imageUrl": "/Keychain/Kurisu.jpg",
         "quantity": 6
     },
@@ -44,7 +44,7 @@
         "id": 6,
         "name": "Hutao",
         "category": "keychain",
-        "price": "$4",
+        "price": 4,
         "imageUrl": "/Keychain/Hutao.jpg",
         "quantity": 4
     },
@@ -52,7 +52,7 @@
         "id": 7,
         "name": "Ganyu",
         "category": "keychain",
-        "price": "$5",
+        "price": 5,
         "imageUrl": "/Keychain/Ganyu.jpg",
         "quantity": 6
     },
@@ -60,7 +60,7 @@
         "id": 8,
         "name": "Cute Kitty",
         "category": "keychain",
-        "price": "$5",
+        "price": 5,
         "imageUrl": "/Keychain/Cat.jpg",
         "quantity": 10
     },
@@ -68,7 +68,7 @@
         "id": 9,
         "name": "Cute Puppy",
         "category": "keychain",
-        "price": "$5",
+        "price": 5,
         "imageUrl": "/Keychain/Dog.jpg",
         "quantity": 10
     },
@@ -76,7 +76,7 @@
         "id": 10,
         "name": "Tohru",
         "category": "keychain",
-        "price": "$5",
+        "price": 5,
         "imageUrl": "/Keychain/Tohru.jpg",
         "quantity": 2
     },
@@ -84,7 +84,7 @@
         "id": 101,
         "name": "Pointsettia",
         "category": "cross-stitch",
-        "price": "$6",
+        "price": 6,
         "imageUrl": "/CrossStitch/Pointsettia.jpg",
         "quantity": 3,
         "display": true
@@ -93,7 +93,7 @@
         "id": 102,
         "name": "Butterfly",
         "category": "cross-stitch",
-        "price": "$4",
+        "price": 4,
         "imageUrl": "/CrossStitch/Butterfly.jpg",
         "quantity": 1
     },
@@ -101,7 +101,7 @@
         "id": 103,
         "name": "Bird",
         "category": "cross-stitch",
-        "price": "$4",
+        "price": 4,
         "imageUrl": "/CrossStitch/Bird.jpg",
         "quantity": 2
     },
@@ -109,7 +109,7 @@
         "id": 104,
         "name": "Rose",
         "category": "cross-stitch",
-        "price": "$4",
+        "price": 4,
         "imageUrl": "/CrossStitch/Rose.jpg",
         "quantity": 4
     },
@@ -117,7 +117,7 @@
         "id": 105,
         "name": "Snake",
         "category": "cross-stitch",
-        "price": "$2",
+        "price": 2,
         "imageUrl": "/CrossStitch/Snake.jpg",
         "quantity": 5
     },
@@ -125,7 +125,7 @@
         "id": 106,
         "name": "Dragonair",
         "category": "cross-stitch",
-        "price": "$2",
+        "price": 2,
         "imageUrl": "/CrossStitch/Pokemon.jpg",
         "quantity": 7
     },
@@ -133,7 +133,7 @@
         "id": 107,
         "name": "Plane",
         "category": "cross-stitch",
-        "price": "$2",
+        "price": 2,
         "imageUrl": "/CrossStitch/Plane.jpg",
         "quantity": 3
     },
@@ -141,7 +141,7 @@
         "id": 108,
         "name": "Panda",
         "category": "cross-stitch",
-        "price": "$2",
+        "price": 2,
         "imageUrl": "/CrossStitch/Panda.jpg",
         "quantity": 1
     },
@@ -149,7 +149,7 @@
         "id": 109,
         "name": "Totoro",
         "category": "cross-stitch",
-        "price": "$4",
+        "price": 4,
         "imageUrl": "/CrossStitch/Totoro.jpg",
         "quantity": 6
     },
@@ -157,7 +157,7 @@
         "id": 110,
         "name": "Pusheen",
         "category": "cross-stitch",
-        "price": "$4",
+        "price": 4,
         "imageUrl": "/CrossStitch/Pusheen-donut.jpg",
         "quantity": 2
     },
@@ -165,7 +165,7 @@
         "id": 111,
         "name": "Pusheen",
         "category": "cross-stitch",
-        "price": "$4",
+        "price": 4,
         "imageUrl": "/CrossStitch/Pusheen-donut2.jpg",
         "quantity": 5
     },
@@ -173,7 +173,7 @@
         "id": 112,
         "name": "Pusheen",
         "category": "cross-stitch",
-        "price": "$4",
+        "price": 4,
         "imageUrl": "/CrossStitch/Pusheen.jpg",
         "quantity": 2
     },
@@ -181,7 +181,7 @@
         "id": 113,
         "name": "Gudetama",
         "category": "cross-stitch",
-        "price": "$4",
+        "price": 4,
         "imageUrl": "/CrossStitch/Gudetama-Blanket.jpg",
         "quantity": 2
     },
@@ -189,7 +189,7 @@
         "id": 114,
         "name": "Gudetama",
         "category": "cross-stitch",
-        "price": "$4",
+        "price": 4,
         "imageUrl": "/CrossStitch/Gudetama-chopstick.jpg",
         "quantity": 4
     },
@@ -197,7 +197,7 @@
         "id": 115,
         "name": "Paintings",
         "category": "cross-stitch",
-        "price": "$6",
+        "price": 6,
         "imageUrl": "/CrossStitch/Paintings.jpg",
         "quantity": 1
     },
@@ -205,7 +205,7 @@
         "id": 116,
         "name": "Dog Santa",
         "category": "cross-stitch",
-        "price": "$3",
+        "price": 3,
         "imageUrl": "/CrossStitch/Dog.jpg",
         "quantity": 1
     },
@@ -213,7 +213,7 @@
         "id": 201,
         "name": "Bee",
         "category": "crochet",
-        "price": "$5",
+        "price": 5,
         "imageUrl": "/Crochet/Bee.jpg",
         "quantity": 10,
         "display": true
@@ -222,7 +222,7 @@
         "id": 202,
         "name": "Apple",
         "category": "crochet",
-        "price": "$5",
+        "price": 5,
         "imageUrl": "/Crochet/Apple.jpg",
         "quantity": 6
     },
@@ -230,7 +230,7 @@
         "id": 203,
         "name": "Baymax",
         "category": "crochet",
-        "price": "$8",
+        "price": 8,
         "imageUrl": "/Crochet/Big-hero-6.jpg",
         "quantity": 1
     },
@@ -238,7 +238,7 @@
         "id": 204,
         "name": "Whale",
         "category": "crochet",
-        "price": "$5",
+        "price": 5,
         "imageUrl": "/Crochet/Whale.jpg",
         "quantity": 8
     }

@@ -1,9 +1,9 @@
-import React, { useContext } from 'react';
-import { CraftContext } from "../hooks/CraftContext"
+import React from 'react';
 import HomepageListing from './HomepageListing';
+import { useSelector } from 'react-redux';
 
 function Homepage() {
-    const [crafts, setCrafts] = useContext(CraftContext)
+    const crafts = useSelector((state) => state.shop.products)
     return (
         <div className="homepage">
             <h1>Shop Carefully Handcrafted:</h1>

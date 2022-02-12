@@ -1,8 +1,8 @@
 import Homepage from "./Homepage";
 import CategoryHome from "./CategoryHome";
 import CraftListing from "./CraftListing";
-import { CraftContext } from '../hooks/CraftContext';
-import { useContext } from 'react';
+import Cart from "./Cart";
+import { useSelector } from "react-redux";
 import { Routes, Route, useParams, Navigate } from "react-router-dom";
 
 function CraftStoreRouting() {
@@ -12,6 +12,7 @@ function CraftStoreRouting() {
         <Route path="/cross-stitch" element={<CategoryHome category="cross-stitch" />} />
         <Route path="/crochet" element={<CategoryHome category="crochet" />} />
         <Route path="/keychain" element={<CategoryHome category="keychain" />} />
+        <Route path="/cart" element={<Cart/>}/>
         <Route
             path="*"
             element={<Navigate to="/" />}
@@ -20,7 +21,7 @@ function CraftStoreRouting() {
 }
 
 function GetCurrentCraft() {
-    const [crafts] = useContext(CraftContext);
+    const crafts = useSelector((state) => state.shop.products);
     let { id } = useParams();
     return <CraftListing craft={crafts.find(craft => craft.id === parseInt(id))} />
 }

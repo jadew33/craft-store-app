@@ -1,0 +1,12 @@
+@mixin onHover {
+    transition: color ease-in-out 500ms;
+    &:hover {
+        color: $green3;
+    }
+}
+
+@mixin flexCenter{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
