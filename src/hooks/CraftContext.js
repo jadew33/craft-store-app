@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import crafts from "../assets/crafts.json"
+import crafts from "../data/crafts.json"
 
 const CraftContext = React.createContext([{}, ()=>{}]);
 
