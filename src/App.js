@@ -7,7 +7,7 @@ import { useSelector } from 'react-redux';
 function App() {
   const cart = useSelector((state) => state.shop.cart);
   const itemsInCart = () => {
-    if (cart.length === 0) return "";
+    if (cart.length === 0) return 0;
     let total = 0;
     cart.map(item => total += item.cartQuantity);
     return total;
