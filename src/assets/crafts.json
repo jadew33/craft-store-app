@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "name": "Akame",
+        "category": "keychain",
+        "price" : "$5",
+        "imageUrl": "/keychain/Akame.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Cute Kitty",
+        "category": "keychain",
+        "price" : "$5",
+        "imageUrl": "/keychain/Cat.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Cute Puppy",
+        "category": "keychain",
+        "price" : "$5",
+        "imageUrl": "/keychain/Dog.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Ganyu",
+        "category": "keychain",
+        "price" : "$5",
+        "imageUrl": "/keychain/Ganyu.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Hoshiguma",
+        "category": "keychain",
+        "price" : "$5",
+        "imageUrl": "/keychain/Hoshiguma.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Hutao",
+        "category": "keychain",
+        "price" : "$4",
+        "imageUrl": "/keychain/Hutao.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Irelia",
+        "category": "keychain",
+        "price" : "$6",
+        "imageUrl": "/keychain/Irelia.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Kokomi",
+        "category": "keychain",
+        "price" : "$6",
+        "imageUrl": "/keychain/Kokomi.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Kurisu",
+        "category": "keychain",
+        "price" : "$6",
+        "imageUrl": "/keychain/Kurisu.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Tohru",
+        "category": "keychain",
+        "price" : "$5",
+        "imageUrl": "/keychain/Tohru.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Bird",
+        "category": "cross-stitch",
+        "price" : "$4",
+        "imageUrl": "/CrossStitch/Bird.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Butterfly",
+        "category": "cross-stitch",
+        "price" : "$4",
+        "imageUrl": "/CrossStitch/Butterfly.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Dog Santa",
+        "category": "cross-stitch",
+        "price" : "$3",
+        "imageUrl": "/CrossStitch/Dog.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Gudetama (vers 1)",
+        "category": "cross-stitch",
+        "price" : "$4",
+        "imageUrl": "/CrossStitch/Gudetama-Blanket.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Gudetama (vers 2)",
+        "category": "cross-stitch",
+        "price" : "$4",
+        "imageUrl": "/CrossStitch/Gudetama-chopstick.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Paintings",
+        "category": "cross-stitch",
+        "price" : "$6",
+        "imageUrl": "/CrossStitch/Paintings.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Panda",
+        "category": "cross-stitch",
+        "price" : "$2",
+        "imageUrl": "/CrossStitch/Panda.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Plane",
+        "category": "cross-stitch",
+        "price" : "$2",
+        "imageUrl": "/CrossStitch/Plane.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Pointsettia",
+        "category": "cross-stitch",
+        "price" : "$6",
+        "imageUrl": "/CrossStitch/Pointsettia.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Dragonair",
+        "category": "cross-stitch",
+        "price" : "$2",
+        "imageUrl": "/CrossStitch/Pokemon.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Pusheen (vers 1)",
+        "category": "cross-stitch",
+        "price" : "$4",
+        "imageUrl": "/CrossStitch/Pusheen-donut.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Pusheen (vers 2)",
+        "category": "cross-stitch",
+        "price" : "$4",
+        "imageUrl": "/CrossStitch/Pusheen-donut2.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Pusheen (vers 3)",
+        "category": "cross-stitch",
+        "price" : "$4",
+        "imageUrl": "/CrossStitch/Pusheen.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Rose",
+        "category": "cross-stitch",
+        "price" : "$4",
+        "imageUrl": "/CrossStitch/Rose.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Snake",
+        "category": "cross-stitch",
+        "price" : "$2",
+        "imageUrl": "/CrossStitch/Snake.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Totoro",
+        "category": "cross-stitch",
+        "price" : "$4",
+        "imageUrl": "/CrossStitch/Totoro.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Apple",
+        "category": "crochet",
+        "price" : "$5",
+        "imageUrl": "/Crochet/Apple.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Bee",
+        "category": "crochet",
+        "price" : "$5",
+        "imageUrl": "/Crochet/Bee.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Baymax",
+        "category": "crochet",
+        "price" : "$8",
+        "imageUrl": "/Crochet/Big-hero-6.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Whale",
+        "category": "crochet",
+        "price" : "$5",
+        "imageUrl": "/Crochet/Whale.jpg"
+    }
+]
