@@ -225,6 +225,9 @@
         text-align: center;
         @include onHover;
     }
+    img{
+        width: 90%;
+    }
     .frame {
         @include flexCenter;
         background: url($frame);
