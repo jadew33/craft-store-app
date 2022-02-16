@@ -18,7 +18,7 @@ function CraftListing({ craft, addToCart }) {
         <Navbar />
         <div className="craft-listing">
             <div className="frame">
-                <img src={imageUrl} alt={name} />
+                <img src={imageUrl} alt="Sorry, Cloudinary seems to be down :(" />
             </div>
             <div className="craft-listing__text">
                 <h1>{name}</h1>

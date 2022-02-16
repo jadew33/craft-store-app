@@ -4,7 +4,7 @@
         "name": "Kokomi",
         "category": "keychain",
         "price": 6,
-        "imageUrl": "/Keychain/Kokomi.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990728/craft-store/Keychains/Kokomi-min_ds3blr.png",
         "quantity": 9,
         "display": true
     },
@@ -13,7 +13,7 @@
         "name": "Irelia",
         "category": "keychain",
         "price": 6,
-        "imageUrl": "/Keychain/Irelia.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990728/craft-store/Keychains/Irelia-min_yhqxnj.png",
         "quantity": 7
     },
     {
@@ -21,7 +21,7 @@
         "name": "Hoshiguma",
         "category": "keychain",
         "price": 5,
-        "imageUrl": "/Keychain/Hoshiguma.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990728/craft-store/Keychains/Hoshiguma-min_jngo6n.png",
         "quantity": 3
     },
     {
@@ -29,7 +29,7 @@
         "name": "Akame",
         "category": "keychain",
         "price": 5,
-        "imageUrl": "/Keychain/Akame.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990766/craft-store/Keychains/Akame-min_erqius.png",
         "quantity": 5
     },
     {
@@ -37,7 +37,7 @@
         "name": "Kurisu",
         "category": "keychain",
         "price": 6,
-        "imageUrl": "/Keychain/Kurisu.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990728/craft-store/Keychains/Kurisu-min_bkwuqm.png",
         "quantity": 6
     },
     {
@@ -45,7 +45,7 @@
         "name": "Hutao",
         "category": "keychain",
         "price": 4,
-        "imageUrl": "/Keychain/Hutao.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990783/craft-store/Keychains/Hutao-min_leed59.png",
         "quantity": 4
     },
     {
@@ -53,7 +53,7 @@
         "name": "Ganyu",
         "category": "keychain",
         "price": 5,
-        "imageUrl": "/Keychain/Ganyu.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990766/craft-store/Keychains/Ganyu-min_ngqdai.png",
         "quantity": 6
     },
     {
@@ -61,7 +61,7 @@
         "name": "Cute Kitty",
         "category": "keychain",
         "price": 5,
-        "imageUrl": "/Keychain/Kitty.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990728/craft-store/Keychains/Kitty-min_y9ojng.png",
         "quantity": 10
     },
     {
@@ -69,7 +69,7 @@
         "name": "Cute Puppy",
         "category": "keychain",
         "price": 5,
-        "imageUrl": "/Keychain/Puppy.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990766/craft-store/Keychains/Puppy-min_ukchqx.png",
         "quantity": 10
     },
     {
@@ -77,7 +77,7 @@
         "name": "Tohru",
         "category": "keychain",
         "price": 5,
-        "imageUrl": "/Keychain/Tohru.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990729/craft-store/Keychains/Tohru-min_oiti4p.png",
         "quantity": 2
     },
     {
@@ -85,7 +85,7 @@
         "name": "Nanami",
         "category": "keychain",
         "price": 5,
-        "imageUrl": "/Keychain/Nanami.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990729/craft-store/Keychains/Nanami-min_k6n8jl.png",
         "quantity": 4
     },
     {
@@ -93,7 +93,7 @@
         "name": "Kyouko",
         "category": "keychain",
         "price": 5,
-        "imageUrl": "/Keychain/Kyouko.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990729/craft-store/Keychains/Kyouko-min_cuexpr.png",
         "quantity": 2
     },
     {
@@ -101,7 +101,7 @@
         "name": "Pusheen",
         "category": "keychain",
         "price": 3,
-        "imageUrl": "/Keychain/Pusheen.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990766/craft-store/Keychains/Pusheen-min_lj668w.png",
         "quantity": 11
     },
     {
@@ -109,7 +109,7 @@
         "name": "Shiro",
         "category": "keychain",
         "price": 4,
-        "imageUrl": "/Keychain/Shiro.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990728/craft-store/Keychains/Shiro-min_tbejlk.png",
         "quantity": 3
     },
     {
@@ -117,7 +117,7 @@
         "name": "Pointsettia",
         "category": "cross-stitch",
         "price": 6,
-        "imageUrl": "/CrossStitch/Pointsettia.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990476/craft-store/CrossStitch/Pointsettia_zpkeoa.png",
         "quantity": 3,
         "display": true
     },
@@ -126,7 +126,7 @@
         "name": "Butterfly",
         "category": "cross-stitch",
         "price": 4,
-        "imageUrl": "/CrossStitch/Butterfly.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990478/craft-store/CrossStitch/Butterfly_lzq8bo.png",
         "quantity": 1
     },
     {
@@ -134,7 +134,7 @@
         "name": "Bird",
         "category": "cross-stitch",
         "price": 4,
-        "imageUrl": "/CrossStitch/Bird.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990806/craft-store/CrossStitch/Bird-min_w3siu4.png",
         "quantity": 2
     },
     {
@@ -142,7 +142,7 @@
         "name": "Rose",
         "category": "cross-stitch",
         "price": 4,
-        "imageUrl": "/CrossStitch/Rose.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990478/craft-store/CrossStitch/Rose_svy5uw.png",
         "quantity": 4
     },
     {
@@ -150,7 +150,7 @@
         "name": "Snake",
         "category": "cross-stitch",
         "price": 2,
-        "imageUrl": "/CrossStitch/Snake.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990477/craft-store/CrossStitch/Snake_xmsp9r.png",
         "quantity": 5
     },
     {
@@ -158,7 +158,7 @@
         "name": "Dragonair",
         "category": "cross-stitch",
         "price": 2,
-        "imageUrl": "/CrossStitch/Pokemon.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990476/craft-store/CrossStitch/Pokemon_vvblth.png",
         "quantity": 7
     },
     {
@@ -166,7 +166,7 @@
         "name": "Plane",
         "category": "cross-stitch",
         "price": 2,
-        "imageUrl": "/CrossStitch/Plane.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990474/craft-store/CrossStitch/Plane_fbeviu.png",
         "quantity": 3
     },
     {
@@ -174,7 +174,7 @@
         "name": "Panda",
         "category": "cross-stitch",
         "price": 2,
-        "imageUrl": "/CrossStitch/Panda.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990475/craft-store/CrossStitch/Panda_tpmwj0.png",
         "quantity": 1
     },
     {
@@ -182,7 +182,7 @@
         "name": "Totoro",
         "category": "cross-stitch",
         "price": 4,
-        "imageUrl": "/CrossStitch/Totoro.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990477/craft-store/CrossStitch/Totoro_avjpea.png",
         "quantity": 6
     },
     {
@@ -190,7 +190,7 @@
         "name": "Pusheen",
         "category": "cross-stitch",
         "price": 4,
-        "imageUrl": "/CrossStitch/Pusheen-donut.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990474/craft-store/CrossStitch/Pusheen_wvo8rw.png",
         "quantity": 2
     },
     {
@@ -198,7 +198,7 @@
         "name": "Pusheen",
         "category": "cross-stitch",
         "price": 4,
-        "imageUrl": "/CrossStitch/Pusheen-donut2.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990478/craft-store/CrossStitch/Pusheen-donut_vmowr0.png",
         "quantity": 5
     },
     {
@@ -206,7 +206,7 @@
         "name": "Pusheen",
         "category": "cross-stitch",
         "price": 4,
-        "imageUrl": "/CrossStitch/Pusheen.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990478/craft-store/CrossStitch/Pusheen-donut2_ngnuju.png",
         "quantity": 2
     },
     {
@@ -214,7 +214,7 @@
         "name": "Gudetama",
         "category": "cross-stitch",
         "price": 4,
-        "imageUrl": "/CrossStitch/Gudetama-Blanket.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990806/craft-store/CrossStitch/Gudetama-Blanket-min_owhqai.png",
         "quantity": 2
     },
     {
@@ -222,7 +222,7 @@
         "name": "Gudetama",
         "category": "cross-stitch",
         "price": 4,
-        "imageUrl": "/CrossStitch/Gudetama-chopstick.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990475/craft-store/CrossStitch/Gudetama-chopstick_cliblf.png",
         "quantity": 4
     },
     {
@@ -230,7 +230,7 @@
         "name": "Paintings",
         "category": "cross-stitch",
         "price": 6,
-        "imageUrl": "/CrossStitch/Paintings.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990475/craft-store/CrossStitch/Paintings_ultjck.png",
         "quantity": 1
     },
     {
@@ -238,7 +238,7 @@
         "name": "Dog Santa",
         "category": "cross-stitch",
         "price": 3,
-        "imageUrl": "/CrossStitch/Dog.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990474/craft-store/CrossStitch/Dog_eunqga.png",
         "quantity": 1
     },
     {
@@ -246,7 +246,7 @@
         "name": "Bee",
         "category": "crochet",
         "price": 5,
-        "imageUrl": "/Crochet/Bee.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990546/craft-store/Crochet/Bee_v7zr0l.png",
         "quantity": 10,
         "display": true
     },
@@ -255,7 +255,7 @@
         "name": "Apple",
         "category": "crochet",
         "price": 5,
-        "imageUrl": "/Crochet/Apple.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990546/craft-store/Crochet/Apple_txjlx0.png",
         "quantity": 6
     },
     {
@@ -263,7 +263,7 @@
         "name": "Baymax",
         "category": "crochet",
         "price": 8,
-        "imageUrl": "/Crochet/Big-hero-6.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990546/craft-store/Crochet/Big-hero-6_g0oweg.png",
         "quantity": 1
     },
     {
@@ -271,7 +271,7 @@
         "name": "Whale",
         "category": "crochet",
         "price": 5,
-        "imageUrl": "/Crochet/Whale.png",
+        "imageUrl": "https://res.cloudinary.com/jadew33/image/upload/v1644990546/craft-store/Crochet/Whale_dantto.png",
         "quantity": 8
     }
 ]

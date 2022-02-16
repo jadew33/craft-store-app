@@ -191,6 +191,7 @@
     &__text {
         margin-left: 3em;
         text-align: center;
+        font-size: larger;
         @media (max-width: 675px) {
             margin-left: 0;
         }
@@ -233,8 +234,8 @@
         background: url($frame);
         background-repeat: no-repeat;
         background-size: cover;
-        height: calc(40em - 20vw);
-        width: calc(40em - 20vw);
+        height: calc(40em - 10vw);
+        width: calc(40em - 10vw);
         @media (max-width: 1000px) {
             height: calc(30em - 20vw);
             width: calc(30em - 20vw);

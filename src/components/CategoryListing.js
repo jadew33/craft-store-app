@@ -5,7 +5,7 @@ function CategoryListing({ craft }) {
     return (
         <Link to={`/listing/${id}`}>
             <div className="category-listing zoom">
-                <img src={imageUrl} alt={name} className="category-listing__image"></img>
+                <img src={imageUrl} alt="Sorry, Cloudinary seems to be down :(" className="category-listing__image"></img>
                 <div className="category-listing__text">
                     <p className="name">{name}</p>
                     <p className="price">${price}</p>

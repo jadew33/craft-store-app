@@ -9,7 +9,7 @@ function CartListing({ craft, cartQuantity }) {
 
     }
     return (<div className="cart-listing">
-        <img src={imageUrl} alt={name} />
+        <img src={imageUrl} alt="Sorry, Cloudinary seems to be down :(" />
         <div className="text">
             <h1>{name}</h1>
             <p>Quantity: {cartQuantity}</p>

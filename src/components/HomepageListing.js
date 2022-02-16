@@ -6,7 +6,7 @@ function HomepageListing({ craft }) {
     return (
     <Link to={category} className="link">
         <div className="homepage-listing zoom" >
-            <img src={craft.imageUrl} />
+            <img src={craft.imageUrl} alt="Sorry, Cloudinary seems to be down :("/>
             <p>{getDisplayName(category)}</p>
         </div>
     </Link>);
